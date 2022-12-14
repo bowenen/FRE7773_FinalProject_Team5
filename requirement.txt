@@ -1,0 +1,9 @@
+!apt install gdal-bin python-gdal python3-gdal 
+!apt install python3-rtree 
+!pip install descartes 
+!pip install geopandas
+!pip install osmnx
+!pip install contextily
+!pip install folium
+!pip install plotly_express
+!pip install geofeather
